@@ -4,5 +4,8 @@ This code is adapted from [Alec Jacobson's qslim implementation using libigl](ht
 
 curvature-QSLIM, when using different methods to calculate the curvature:
 
+Left: using libigl's existing curvature estimation to calculate total curvature from principal curvatures
+Right: using our TotalCurvatureCalculator
+
 ![decimation_compare](https://github.com/HeCraneChen/curvature-qslim-mesh-decimation/assets/33951209/e7c2b93b-eb1b-4acc-a8e8-e14f6ab1fcdd)
 
