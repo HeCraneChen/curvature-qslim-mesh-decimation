@@ -18,6 +18,18 @@ Right: using our TotalCurvatureCalculator
 
 ## Compile and Run
 
+Fetch the code with dependencies:
+
+    git clone https://github.com/HeCraneChen/total-curvature-estimation.git --recursive
+
+Compile this project using the standard cmake routine:
+
+    cd curvature-qslim-mesh-decimation
+    mkdir build
+    cd build
+    cmake ..
+    make
+
 
 ## Citation
 
