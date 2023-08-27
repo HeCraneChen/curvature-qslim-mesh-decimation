@@ -30,6 +30,11 @@ Compile this project using the standard cmake routine:
     cmake ..
     make
 
+Run:
+
+    ./CurvatureQSLIM
+    
+
 
 ## Citation
 
