@@ -16,6 +16,9 @@ Right: using our TotalCurvatureCalculator
 - [eigen](https://eigen.tuxfamily.org/index.php?title=Main_Page) for matrix data structures
 - [libigl](http://libigl.github.io/libigl/) for mesh data structures and geometry processing tools
 
+## Compile and Run
+
+
 ## Citation
 
 ```bibtex
