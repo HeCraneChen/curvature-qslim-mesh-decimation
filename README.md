@@ -10,3 +10,23 @@ Right: using our TotalCurvatureCalculator
 
 ![decimation_compare](https://github.com/HeCraneChen/curvature-qslim-mesh-decimation/assets/33951209/e7c2b93b-eb1b-4acc-a8e8-e14f6ab1fcdd)
 
+
+## Citation
+
+```bibtex
+@inproceedings{10.1145/3587421.3595439,
+author = {Chen, Crane He},
+title = {Estimating Discrete Total Curvature with Per Triangle Normal Variation},
+year = {2023},
+isbn = {9798400701436},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3587421.3595439},
+doi = {10.1145/3587421.3595439},
+booktitle = {ACM SIGGRAPH 2023 Talks},
+articleno = {56},
+numpages = {2},
+location = {Los Angeles, CA, USA},
+series = {SIGGRAPH '23}
+}
+```
