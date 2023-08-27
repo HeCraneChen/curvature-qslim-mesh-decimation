@@ -4,4 +4,5 @@ This code is adapted from [Alec Jacobson's qslim implementation using libigl](ht
 
 curvature-QSLIM, when using different methods to calculate the curvature:
 
-![decimation_compare](https://github.com/HeCraneChen/curvature-qslim-mesh-decimation/assets/33951209/5da402bd-3d5f-41e6-a45b-b80567c1852f)
+![decimation_compare](https://github.com/HeCraneChen/curvature-qslim-mesh-decimation/assets/33951209/e7c2b93b-eb1b-4acc-a8e8-e14f6ab1fcdd)
+
