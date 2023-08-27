@@ -10,6 +10,11 @@ Right: using our TotalCurvatureCalculator
 
 ![decimation_compare](https://github.com/HeCraneChen/curvature-qslim-mesh-decimation/assets/33951209/e7c2b93b-eb1b-4acc-a8e8-e14f6ab1fcdd)
 
+## Dependencies
+
+- [STL](https://www.geeksforgeeks.org/the-c-standard-template-library-stl/)
+- [eigen](https://eigen.tuxfamily.org/index.php?title=Main_Page) for matrix data structures
+- [libigl](http://libigl.github.io/libigl/) for mesh data structures and geometry processing tools
 
 ## Citation
 
