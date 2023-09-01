@@ -2,13 +2,6 @@
 
 This code is adapted from [Alec Jacobson's qslim implementation using libigl](https://www.alecjacobson.com/weblog/?tag=qslim). My contribution in this codebase is merely adding the part where we use total curvature calculated by our [TotalCurvatureCalculator](https://github.com/HeCraneChen/total-curvature-estimation.git) to weight the quadric, so that fine details at highly curved regions are better preserved during decimation. Note that, the idea of curvature-aware mesh decimation is not my contribution. That contribution traces back to [Anisotropic Polygonal Remeshing](https://dl.acm.org/doi/pdf/10.1145/1201775.882296) by Pierre Alliez et al. This repo is a simple showcase to demonstrate more accurate curvature calculator can help improve the performance of real-world applications, which serves as one validation for [our paper](https://dl.acm.org/doi/abs/10.1145/3587421.3595439). 
 
-curvature-qslim, when using different methods to calculate the curvature:
-
-Left: using libigl's existing curvature estimation to calculate total curvature from principal curvatures
-
-Right: using our TotalCurvatureCalculator
-
-![decimation_compare](https://github.com/HeCraneChen/curvature-qslim-mesh-decimation/assets/33951209/e7c2b93b-eb1b-4acc-a8e8-e14f6ab1fcdd)
 
 ## Dependencies
 
